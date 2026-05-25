@@ -19,6 +19,12 @@ body {
       max-width: 250px;
       border-radius: 1rem;
     }
+.qrCode {
+      width: 100%;
+      height: auto;
+      margin-bottom: 1rem;
+      border-radius: 1rem;
+    }
 .content h1{
       color: hsl(218, 44%, 22%);
       font-weight: 700;
