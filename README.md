@@ -1,6 +1,4 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# QR code component solution
 
 ## Table of contents
 
@@ -27,7 +25,7 @@ This is the first of many projects in my front-end developer portfolio to get me
 ### Links
 
 - Solution URL: [Repository URL](https://github.com/bessoAgustin/qr-code-challenge.git)
-- Live Site URL: [Llive site URL (GitHub Pages)](https://bessoagustin.github.io/qr-code-challenge/)
+- Live Site URL: [Live site URL (GitHub Pages)](https://bessoagustin.github.io/qr-code-challenge/)
 
 ## My process
 
@@ -45,13 +43,11 @@ I learned the basics of how to make the webpage responsive to make it look visua
 I also made good use of the 'class' attribute inside `<div>` components for future styling using CSS:
 
 ```html
-<div class="container">
-    <div class="qrCode">
-      <img src="./images/image-qr-code.png" alt="QR code" style="width: 100%; border-radius: 1rem;">
-    </div>
+  <div class="container">
+    <img src="./images/image-qr-code.png" alt="QR code" class="qrCode">
     <div class="content">
       <h1>Improve your front-end skills by building projects</h1>
-      <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+      <p>Scan the QR code and take your coding skills to the next level</p>
     </div>
   </div>
 ```
@@ -94,5 +90,4 @@ Given the low complexity of the present project, the use of AI agents was truly 
 
 ## Author
 
-- GitHub Profile - [@bessoAgustin](https://github.com/bessoAgustin)
-- Frontend Mentor - [@bessoAgustin](https://www.frontendmentor.io/profile/bessoAgustin)
+- Portfolio - [Agustín Besso](https://agustinbessoportfolio.vercel.app/)
